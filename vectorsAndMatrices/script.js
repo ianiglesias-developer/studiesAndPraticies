@@ -21,3 +21,14 @@ let alivePokemon = true            // Boolean (ou Booleanos(as)) são variáveis
 
 //-------------------------------------------
 
+// Criando e manipulando vetores e matrizes
+
+let pokemonCollection = ["Pikachu", "Charmander", "Bulbasaur"]; // "Pikachu" está na posição 0, "Charmander" está na posição 1,"Bulbasaur" está na posição 2
+
+console.log(pokemonCollection);
+
+console.log(pokemonCollection[0]);
+console.log(pokemonCollection[1]);
+console.log(pokemonCollection[2]);
+
+console.log()
